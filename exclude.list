@@ -1,0 +1,31 @@
+Program Files/ESET
+Program Files/Malwarebytes
+Program Files/McAfee
+Program Files/Microsoft Security Client
+
+Program Files (x86)/McAfee
+
+AdwCleaner/
+Windows Defender/
+Windows Defender Advanced Threat Protection/
+
+AVAST Software/Avast
+AVG/Antivirus
+Common Files/McAfee
+Data/Cached Installs
+Data/Definitions/IPSDefs
+Data/Definitions/VirusDefs
+ESET/ESET Endpoint Antivirus
+ESET/ESET NOD32 Antivirus
+ESET/ESET Security
+ESET/RemoteAdministrator
+Kaspersky Lab/KES10
+Malwarebytes/MBAMService
+McAfee/Agent
+Microsoft/Microsoft Antimalware
+Symantec/Common Client
+Symantec/LiveUpdate
+Symantec/Shared
+
+Norton/{NS*}/
+NortonRnR/{NS*}/
