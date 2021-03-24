@@ -1,14 +1,19 @@
 Program Files/ESET
+Program Files/Kaspersky Lab
 Program Files/Malwarebytes
 Program Files/McAfee
 Program Files/Microsoft Security Client
 
+Program Files (x86)/Kaspersky Lab
 Program Files (x86)/McAfee
+
+ProgramData/Kaspersky Lab
 
 AdwCleaner/
 Windows Defender/
 Windows Defender Advanced Threat Protection/
 
+adaware/adaware antivirus/msi_cache
 AVAST Software/Avast
 AVG/Antivirus
 Common Files/McAfee
