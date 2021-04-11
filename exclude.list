@@ -1,4 +1,5 @@
 Program Files/ESET
+Program Files/Immunet
 Program Files/Kaspersky Lab
 Program Files/Malwarebytes
 Program Files/McAfee
@@ -33,5 +34,6 @@ Symantec/Common Client
 Symantec/LiveUpdate
 Symantec/Shared
 
+Immunet/*.exe
 Norton/{NS*}/
 NortonRnR/{NS*}/
