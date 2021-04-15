@@ -1,13 +1,16 @@
 Program Files/ESET
+Program Files/G Data
 Program Files/Immunet
 Program Files/Kaspersky Lab
 Program Files/Malwarebytes
 Program Files/McAfee
 Program Files/Microsoft Security Client
 
+Program Files (x86)/G Data
 Program Files (x86)/Kaspersky Lab
 Program Files (x86)/McAfee
 
+ProgramData/G Data
 ProgramData/Kaspersky Lab
 
 AdwCleaner/
@@ -17,6 +20,7 @@ Windows Defender Advanced Threat Protection/
 adaware/adaware antivirus/msi_cache
 AVAST Software/Avast
 AVG/Antivirus
+Common Files/G Data
 Common Files/McAfee
 Data/Cached Installs
 Data/Definitions/IPSDefs
