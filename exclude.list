@@ -1,4 +1,3 @@
-Program Files/Bitdefender
 Program Files/ESET
 Program Files/G Data
 Program Files/Immunet
@@ -24,6 +23,9 @@ adaware/adaware antivirus/msi_cache
 AVAST Software/Avast
 AVG/Antivirus
 AVG/Browser
+Bitdefender/Endpoint Security/Signatures
+Bitdefender/Endpoint Security/ThreatScanner
+Bitdefender/EndpointSetupInformation
 Common Files/G Data
 Common Files/McAfee
 Comodo/Cis/signatures
